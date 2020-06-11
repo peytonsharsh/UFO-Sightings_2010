@@ -1,0 +1,35 @@
+#advancesearchbutton {
+    margin-bottom: 15px;
+}
+
+#mybackground {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    position: relative;
+    background-image: url("../images/incoming.jpg");
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+h1 {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#inputbox {
+    border-style: solid;
+    border-color: darkslategrey;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+thead {
+    font-size: 15px;
+}
