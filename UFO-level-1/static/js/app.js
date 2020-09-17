@@ -4,7 +4,6 @@ var tbody = d3.select("tbody");
 
 var filterbutton = d3.select("#submitbutton");
 
-//need to change to consider all filters
 var filterenter = d3.select("#form-control");
 
 filterbutton.on("click", runValue);
@@ -28,8 +27,3 @@ function runValue() {
         })}
     })
 };
-
-
-//inputField.on("change", function() {
-//   var newText = d3.event.target.value;
-//    console.log(newText);
