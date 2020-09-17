@@ -1,6 +1,7 @@
 ## UFO-Sightings
 On the website you will be able to filter to specific dates of ufo sightings.
 - index.html is the coding for the webpage
+
 The static folder contains the following
    - "css/style.css" contains formatting code for the webpage
    - "static/images" contains the images used on the webpage
