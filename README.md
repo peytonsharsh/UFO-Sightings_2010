@@ -1,2 +1,9 @@
-# javascript-challenge
-This project was a delve into UFO sigtings for January in 2010.  A website was built where specific instances could be filtered by date among the data.  Javascript was used to build the response to user input and show the desired results on the page.
+## UFO-Sightings
+On the website you will be able to filter to specific dates of ufo sightings.
+- index.html is the coding for the webpage
+
+The static folder contains the following
+   - "css/style.css" contains formatting code for the webpage
+   - "static/images" contains the images used on the webpage
+   - "app.js" contains code for excuting the search and returning the results of the user input
+   - "data.js" contains the complete dataset of the sighting used for the webpage
